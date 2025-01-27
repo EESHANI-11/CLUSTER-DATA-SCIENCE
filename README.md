@@ -32,10 +32,7 @@ The repository contains the following files:
 - **Data_Science_Assignment.ipynb**: Jupyter Notebook with all code and outputs.
 - **Data_Science_Assignment.pdf**: PDF report summarizing the EDA, insights, and results.
 - **Lookalike.csv**: CSV file with lookalike customer recommendations.
-## Usage
-1. Open the Jupyter Notebook file (`Data_Science_Assignment.ipynb`) to view the code and outputs.
-2. Refer to the PDF report (`Data_Science_Assignment.pdf`) for detailed insights and visualizations.
-3. Use the CSV file (`Lookalike.csv`) to check customer recommendations.
+
 ## Technologies Used
 - Python
 - Pandas
